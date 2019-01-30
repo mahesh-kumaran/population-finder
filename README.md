@@ -8,5 +8,5 @@ You can get this up and running by simply starting a http-server using node ```h
 
 ![alt text](https://github.com/mahesht10/population-finder/blob/master/assets/images/sample-screen-min.gif)
 
-Cheers !! :beer:
+Cheers !! :beer:  
 -Mahesh 
