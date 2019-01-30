@@ -1,0 +1,68 @@
+@font-face {
+	font-family: 'Athletics';
+	src: url('../fonts/athletics-black.otf'); 
+}
+
+.header{
+	font-family: "Athletics";
+	/* background-color: #1a66ff; */
+	background-color: #f1b000;
+	position: fixed;
+	left: 0; top: 0; right: 0;
+	height: 55px;
+	padding-bottom: 30px;
+	
+}
+
+.header-text{
+	color:white;
+	/* padding: 10px; */
+	margin: 15px;
+	font-size: 20px;
+}
+
+.content{
+	font-family: "Athletics";
+	position: absolute;
+	right: 0; left: 0; 
+	bottom: 0; 
+	top: 60px;
+	background: url("../images/bg-image.jpg") no-repeat center;
+	background-blend-mode: multiply;
+	text-align: center;
+}
+
+.left-sec{
+	padding: 35px;
+	font-family: "Athletics";
+	/* background-color: blueviolet; */
+	/* float: left;  */
+	color: black;
+	z-index: 10;
+	display:block;	
+	/* margin-left: 570px; */
+	/* background-color: red; */
+	display: inline-block;
+
+	
+}
+.population-result{
+
+	position: absolute;
+	font-size: 30px;
+	bottom: 70px;
+	padding: 25px;
+	left: 40%;
+	right: 25%;
+	margin-left: -150px;
+	/* background-color: yellow; */
+	display: inline-block;
+	
+
+}
+.count{
+  line-height: 100px;
+  color:black;
+  margin-left:30px;
+  font-size:25px;
+}	
